@@ -1,21 +1,26 @@
-# kozeuh_PersonalMenu
-kPersonalMenu is a PersonalMenu private for NewTown RP (FiveM)
+<h2 align='center'>✔️ v0.2 No Release - Private for NewTown RP - Only an overview </h2>
 
-kPersonalMenu est un menu personnal développé pour NewTown sur la plateforme FiveM.
+<h2 align='center'>🔒 Dépendances / Dependencies :</h2>
+<div align='center'>
 
-Animations and approaches : krz_personalmenu
+    RageUI  - https://github.com/iTexZoz/NativeUILua_Reloaded
+    es_extended [ESX v1] - https://github.com/esx-framework/es_extended/
+</div>
 
-✔️ Version v0.1 No-Release / Private 
+<h2 align='center'>📷 Vidéo / Preview :</h2>
+<div align='center'> v0.1 : https://streamable.com/k503ze <br></br>
+v0.2 : https://streamable.com/bnxyao </div>
 
-🔒 Dépendances:
+<h2 align='center'>👉 A propos de  :</h2>
+<div align='center'>
 
-    es_extended
-    RageUI (v1)
+    - Menu Personnel en RageUI pour le serveur NewTown RP. (Animations + démarches du krz_personalmenu)
+</div>
 
-📷 Vidéo / Preview :
+<h2 align='center'>👉 About  :</h2>
+<div align='center'>
 
-v0.1 : https://streamable.com/k503ze
+    - Personal Menu in RageUI for the NewTown RP server. (Animations + krz_personalmenu steps)
+</div>
 
-
-
-    🔖 Copyright (C) 2020 KoZeuh 
+<h2 align='center'>🔖 Copyright (C) 2020 KoZeuh</h2>
